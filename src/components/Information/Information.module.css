@@ -1,0 +1,19 @@
+.informationContainer {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}
+
+.gameState {
+	font-size: 20px;
+	text-align: center;
+	color: rgb(119, 0, 255);
+}
+
+.resetButton {
+	font-size: 20px;
+	text-align: center;
+	color: rgb(119, 0, 255);
+	background-color: rgb(55, 55, 96);
+	border-radius: 5px;
+}
